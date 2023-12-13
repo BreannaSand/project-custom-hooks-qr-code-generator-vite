@@ -13,7 +13,7 @@ export const App = () => {
     <div className="">
       {/* Render the title */}
       <img className="logo" src={logo} alt="" />
-      <h1>Technigo QR Code Generator</h1>
+      <h1>Technigo QR Code Generator!</h1>
       <p>Start Here</p>
       <QrExample />
 
